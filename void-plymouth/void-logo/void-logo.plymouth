@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=void-logo
+Description=Void a la Windows 10 boot splash theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/void-logo
+ScriptFile=/usr/share/plymouth/themes/void-logo/void-logo.script
